@@ -20,28 +20,28 @@
 
 ## 🔧 Low Level & Networking
 
-| Project          | Description                          | Link |
-|------------------|------------------------------------|------|
-| `ft_malloc`      | Reimplementation of malloc in C    | [View repo](https://github.com/hugo-bourgeon/ft_malcolm) |
+| Project          | Description                              | Link       |
+|------------------|------------------------------------------|------------|
+| `ft_malloc`      | Reimplementation of malloc in C          | [View repo](https://github.com/hugo-bourgeon/ft_malcolm) |
 | `ft_nm`          | Reimplementation of the `nm` ELF command | [View repo](https://github.com/hugo-bourgeon/ft_nm) |
-| `ft_ping`        | Reimplementation of the `ping` command | [View repo](https://github.com/hugo-bourgeon/ft_ping) |
-| `ft_traceroute`  | Reimplementation of traceroute     | [View repo](https://github.com/hugo-bourgeon/ft_traceroute) |
-| `ft_irc`         | IRC server in C             | [View repo](https://github.com/hugo-bourgeon/ft_ping) |
+| `ft_ping`        | Reimplementation of the `ping` command   | [View repo](https://github.com/hugo-bourgeon/ft_ping) |
+| `ft_traceroute`  | Reimplementation of traceroute           | [View repo](https://github.com/hugo-bourgeon/ft_traceroute) |
+| `ft_irc`         | IRC server in C                          | [View repo](https://github.com/hugo-bourgeon/ft_ping) |
 
 ## 🔒 Cybersecurity
 
-| Project               | Description                        | Link |
-|-----------------------|----------------------------------|------|
-| `darkly`              | CTF            | [View repo](https://github.com/hugo-bourgeon/darkly) |
-| `ft_malcolm`          | MITM attack    | [View repo](https://github.com/hugo-bourgeon/ft_malcolm) |
+| Project                 | Description                          | Link       |
+|-------------------------|--------------------------------------|------------|
+| `darkly`                | Capture the flag                     | [View repo](https://github.com/hugo-bourgeon/darkly) |
+| `ft_malcolm`            | MITM attack                          | [View repo](https://github.com/hugo-bourgeon/ft_malcolm) |
 | `piscine-cybersecurity` | Cybersecurity challenges & exercises | [View repo](https://github.com/hugo-bourgeon/piscine-cybersecurity) |
 
 ## 🐳 Other
 
-| Project            | Description                       | Link |
-|--------------------|---------------------------------|------|
+| Project               | Description           | Link       |
+|-----------------------|-----------------------|------------|
 | `Inception_of_things` | CI/CD with kubernetes | [View repo](https://github.com/hugo-bourgeon/Inception_of_things) |
-| `minishell`     | Shell implementation   | minishell |
+| `minishell`           | Shell implementation  | minishell |
 
 ## 📫 Contact Me
 
